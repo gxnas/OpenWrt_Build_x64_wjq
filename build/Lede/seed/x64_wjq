@@ -5,16 +5,8 @@ CONFIG_ARIA2_BITTORRENT=y
 CONFIG_ARIA2_NOXML=y
 CONFIG_ARIA2_OPENSSL=y
 CONFIG_ARIA2_WEBSOCKET=y
-
 # CONFIG_GRUB_CONSOLE is not set
 CONFIG_GRUB_IMAGES=y
-
-
-
-
-
-
-
 CONFIG_NODEJS_ICU_NONE=y
 CONFIG_PACKAGE_6in4=y
 CONFIG_PACKAGE_6rd=y
@@ -38,8 +30,6 @@ CONFIG_PACKAGE_boost-program_options=y
 CONFIG_PACKAGE_boost-system=y
 
 CONFIG_PACKAGE_bzip2=y
-
-
 CONFIG_PACKAGE_coreutils-stat=y
 CONFIG_PACKAGE_coreutils-stty=y
 # CONFIG_PACKAGE_dbus is not set
@@ -66,17 +56,9 @@ CONFIG_PACKAGE_ipv6helper=y
 CONFIG_PACKAGE_jansson=y
 CONFIG_PACKAGE_jq=y
 
-
-
-
-
-
-
-
 CONFIG_PACKAGE_kmod-fuse=y
 CONFIG_PACKAGE_kmod-gre=y
 CONFIG_PACKAGE_kmod-ifb=y
-
 # CONFIG_PACKAGE_kmod-inet-diag is not set
 CONFIG_PACKAGE_kmod-ip6tables=y
 CONFIG_PACKAGE_kmod-ipt-conntrack-extra=y
@@ -87,8 +69,6 @@ CONFIG_PACKAGE_kmod-ipt-nat6=y
 CONFIG_PACKAGE_kmod-ipt-offload=y
 CONFIG_PACKAGE_kmod-ipt-socket=y
 CONFIG_PACKAGE_kmod-iptunnel=y
-
-
 CONFIG_PACKAGE_kmod-l2tp=y
 
 
@@ -99,7 +79,6 @@ CONFIG_PACKAGE_kmod-md-raid1=y
 CONFIG_PACKAGE_kmod-md-raid10=y
 CONFIG_PACKAGE_kmod-nf-flow=y
 CONFIG_PACKAGE_kmod-nf-ipt6=y
-
 CONFIG_PACKAGE_kmod-nf-log6=y
 CONFIG_PACKAGE_kmod-nf-nat6=y
 CONFIG_PACKAGE_kmod-nf-reject6=y
@@ -111,20 +90,15 @@ CONFIG_PACKAGE_kmod-nft-offload=y
 CONFIG_PACKAGE_kmod-nft-socket=y
 CONFIG_PACKAGE_kmod-nft-tproxy=y
 CONFIG_PACKAGE_kmod-oaf=y
-
 CONFIG_PACKAGE_kmod-pppol2tp=y
-
 CONFIG_PACKAGE_kmod-sched-core=y
 CONFIG_PACKAGE_kmod-sit=y
-
-
 # CONFIG_PACKAGE_kmod-wireguard is not set
 # CONFIG_PACKAGE_libavahi-client is not set
 # CONFIG_PACKAGE_libavahi-dbus-support is not set
 CONFIG_PACKAGE_libbz2=y
 # CONFIG_PACKAGE_libdaemon is not set
 # CONFIG_PACKAGE_libdbus is not set
-
 CONFIG_PACKAGE_libdnet=y
 # CONFIG_PACKAGE_libexpat is not set
 CONFIG_PACKAGE_libffi=y
@@ -140,12 +114,10 @@ CONFIG_PACKAGE_libmaxminddb=y
 CONFIG_PACKAGE_libmspack=y
 CONFIG_PACKAGE_libnetsnmp=y
 # CONFIG_PACKAGE_libnettle is not set
-
 CONFIG_PACKAGE_libnftnl=y
 CONFIG_PACKAGE_libpcre2=y
 # CONFIG_PACKAGE_libpopt is not set
 CONFIG_PACKAGE_libpython3=y
-
 CONFIG_PACKAGE_libsqlite3=y
 # CONFIG_PACKAGE_libtasn1 is not set
 CONFIG_PACKAGE_libucode=y
@@ -222,7 +194,6 @@ CONFIG_PACKAGE_lucky=y
 CONFIG_PACKAGE_mdadm=y
 
 CONFIG_PACKAGE_mwan3=y
-
 CONFIG_PACKAGE_netdata=y
 CONFIG_PACKAGE_netperf=y
 CONFIG_PACKAGE_nftables-json=y
@@ -259,7 +230,6 @@ CONFIG_PACKAGE_python3-unittest=y
 CONFIG_PACKAGE_python3-urllib=y
 CONFIG_PACKAGE_python3-uuid=y
 CONFIG_PACKAGE_python3-xml=y
-
 # CONFIG_PACKAGE_samba4-libs is not set
 # CONFIG_PACKAGE_samba4-server is not set
 CONFIG_PACKAGE_script-utils=y
@@ -310,7 +280,6 @@ CONFIG_PACKAGE_strongswan-mod-openssl=y
 CONFIG_PACKAGE_tar=y
 CONFIG_PACKAGE_taskd=y
 CONFIG_PACKAGE_tc-tiny=y
-
 CONFIG_PACKAGE_trojan=y
 CONFIG_PACKAGE_trojan-plus=y
 CONFIG_PACKAGE_ucode=y
